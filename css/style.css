@@ -1,0 +1,7 @@
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.main__btn, .footer__btn{
+    background-color: #fc8252;
+}
